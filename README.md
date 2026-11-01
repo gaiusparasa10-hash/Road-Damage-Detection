@@ -1,7 +1,4 @@
 # AI-Based Road Damage Detection Using Deep Learning (CNN)
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://road-damage-detection.streamlit.app)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://road-damage-detection.streamlit.app)
 ![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 ![TensorFlow Version](https://img.shields.io/badge/TensorFlow-2.15%2B-orange.svg)
 ![Frontend](https://img.shields.io/badge/Frontend-Streamlit-red.svg)
