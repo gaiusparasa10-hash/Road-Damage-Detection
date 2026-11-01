@@ -304,9 +304,6 @@ Open your web browser and navigate to `http://localhost:8501`.
 
 ## 📸 11. Screenshots & Sample Output
 
-### Streamlit Application Interface
-![Streamlit Web App Preview](screenshots/app_preview.png)
-
 ### Model Evaluation Visualizations
 | Training vs. Validation Accuracy | Training vs. Validation Loss |
 | :---: | :---: |
