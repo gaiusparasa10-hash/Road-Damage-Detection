@@ -1,0 +1,10 @@
+{
+    "training_accuracy": 62.5,
+    "training_loss": 0.5637,
+    "validation_accuracy": 50.0,
+    "validation_loss": 0.4735,
+    "precision": 100.0,
+    "recall": 50.0,
+    "f1_score": 66.67,
+    "total_validation_samples": 10
+}

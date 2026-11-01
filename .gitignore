@@ -1,0 +1,50 @@
+# ==============================================================
+# Git Ignore Configuration - Road Damage Detection Project
+# ==============================================================
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Python Bytecode and Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Dataset Files (Keep folder structure via .gitkeep, exclude large image sets)
+data/raw/images/*
+!data/raw/images/.gitkeep
+data/raw/annotations/*
+!data/raw/annotations/.gitkeep
+data/processed/Normal/*
+!data/processed/Normal/.gitkeep
+data/processed/Damaged/*
+!data/processed/Damaged/.gitkeep
+
+# Dataset Archives
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# IDE & Editor Specific Folders
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Logs and Temporary Run Files
+*.log
