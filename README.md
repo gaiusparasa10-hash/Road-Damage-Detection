@@ -1,9 +1,26 @@
 # AI-Based Road Damage Detection Using Deep Learning (CNN)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://road-damage-detection.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://road-damage-detection.streamlit.app)
 ![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 ![TensorFlow Version](https://img.shields.io/badge/TensorFlow-2.15%2B-orange.svg)
 ![Frontend](https://img.shields.io/badge/Frontend-Streamlit-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+---
+
+## 🌐 Live Web Demo
+
+Test the deployed application live in your browser without local installation:
+
+👉 **[Launch Road Damage Detection Live Web App](https://road-damage-detection.streamlit.app)**
+
+> [!TIP]
+> **To deploy your own live instance on Streamlit Community Cloud (100% Free):**
+> 1. Sign in to [share.streamlit.io](https://share.streamlit.io) with your GitHub account (`gaiusparasa10-hash`).
+> 2. Click **"New app"** $\rightarrow$ Select repository: `gaiusparasa10-hash/Road-Damage-Detection`.
+> 3. Main file path: `app.py`, Branch: `main`.
+> 4. Choose your custom subdomain (e.g. `road-damage-detection`) and click **"Deploy!"**.
 
 ---
 
