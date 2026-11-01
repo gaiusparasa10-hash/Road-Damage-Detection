@@ -9,21 +9,6 @@
 
 ---
 
-## 🌐 Live Web Demo
-
-Test the deployed application live in your browser without local installation:
-
-👉 **[Launch Road Damage Detection Live Web App](https://road-damage-detection.streamlit.app)**
-
-> [!TIP]
-> **To deploy your own live instance on Streamlit Community Cloud (100% Free):**
-> 1. Sign in to [share.streamlit.io](https://share.streamlit.io) with your GitHub account (`gaiusparasa10-hash`).
-> 2. Click **"New app"** $\rightarrow$ Select repository: `gaiusparasa10-hash/Road-Damage-Detection`.
-> 3. Main file path: `app.py`, Branch: `main`.
-> 4. Choose your custom subdomain (e.g. `road-damage-detection`) and click **"Deploy!"**.
-
----
-
 ## 📌 1. Project Overview
 
 Road infrastructure deteriorates over time due to weather fluctuations, heavy traffic loading, and structural material aging. Identifying defects like potholes and cracks early is crucial for traffic safety and road maintenance.
